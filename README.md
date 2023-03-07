@@ -2,10 +2,10 @@
 
 - Create an empty repo in your Github acc
 - In terminal:
-  `git clone (ssh url of the repo you're cloning) (name of new folder)`<br>
-  `cd (name of new folder)`<br>
-  `git remote -v`<br>
-  `git remote rename origin upstream`<br>
+  - `git clone (ssh url of the repo you're cloning) (name of new folder)`
+  - `cd (name of new folder)`
+  `git remote -v`
+  `git remote rename origin upstream`
   `git remote add origin (ssh url of empty repo in your account)`
   `git remote -v`
   `git add -A`
